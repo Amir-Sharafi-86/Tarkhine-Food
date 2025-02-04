@@ -1,5 +1,5 @@
 # Tarkhine-food
-this is a landig Website whth TailwindCss and This is a fast food restaurant project
+this is a landig Website With TailwindCss and This is a fast food restaurant project
 # installiation 
 Npm run TailwindCss
 # Technologies
