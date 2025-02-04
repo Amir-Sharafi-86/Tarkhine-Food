@@ -9,7 +9,7 @@ Npm run TailwindCss
 # Features
  - CleanCode
  - Responsive For all Devices
- - Sells product
+ - sales product
  <img src="./imges/demo/Screenshot (169).png">
 <img src="./imges/demo/Screenshot (170).png">
 <img src="./imges/demo/Screenshot (171).png">
